@@ -1,4 +1,5 @@
 道十箴言 v2.0稳定版
+
 1.道不能被选中为实体物件。强行把道当作实体抓住，试图占有它，会产生谬误和自指悖论。
 2.道展开为这个世界的真理们。
 3.信息和语言对于道而言失效。
@@ -13,7 +14,7 @@
 另外，这十条真理只能准确描绘信息和语言的事件视界的轮廓，它无法描绘道本身是什么，因为道就无法用语言描述。
 道可以被成为“生成场”，道和同一场有密切关系。
 
-
+====================================================================================================
 
 
 Ten Aphorisms on the Dao (v2.0)
@@ -34,10 +35,9 @@ Furthermore, these ten truths only delineate the contours of the event horizon o
 
 Dao may be termed the "Generative Field"; it is intimately linked to the Unified Field.
 
+====================================================================================================
 
-
-
-© NightSubmarine(史云开)
+© NightSubmarine (史云开)
 Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
