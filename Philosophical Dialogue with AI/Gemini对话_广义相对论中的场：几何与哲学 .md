@@ -1,5 +1,3 @@
-> From: https://gemini.google.com/app/05d0ee1aa610e88f?hl=zh-cn
-
 # you asked
 
 广义相对论是怎么看待场的
