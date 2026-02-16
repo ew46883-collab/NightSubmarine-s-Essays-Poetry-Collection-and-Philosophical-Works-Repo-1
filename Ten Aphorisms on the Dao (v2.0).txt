@@ -17,7 +17,7 @@
 ====================================================================================================
 
 
-Ten Aphorisms on the Dao (v2.0)
+Ten Aphorisms on the Dao (v2.5)
 
 1. The Dao cannot be instantiated as a concrete entity. Forcibly treating the Dao as an object to be grasped or possessed gives rise to fallacies and self-referential paradoxes.
 2. The Dao unfolds as the manifold truths of this world.
@@ -42,6 +42,7 @@ Licensed under CC BY NC 4.0
 https://creativecommons.org/licenses/by-nc/4.0/
 
 This work was created with the assistance of ChatGPT (OpenAI).
+
 
 
 
