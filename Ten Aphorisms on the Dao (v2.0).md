@@ -1,0 +1,38 @@
+## 道十箴言 v2.6
+1.道不能被选中为实体物件。强行把道当作实体抓住，试图占有它，会产生谬误和自指悖论。`因为道并非某个存在者，而是使一切存在者得以生成的开放整体。实体化意味着划定边界，使其成为“此物而非彼物”。然而一旦划界，道就被还原为整体中的一部分，从而丧失其作为生成背景的无限性。因此，道并非“无穷大的对象”，而是不可对象化的生成场域。所谓“将道作为实体把握”，本质上是试图把世界整体化为一个集合，但并不存在一个集合，能够包含世界上一切存在者而不陷入自指矛盾。`  
+2.道展开为这个世界的真理们。  
+3.信息和语言对于道而言失效。  
+4.永远无法用有限的真理穷尽或完全反推道。人不能穷尽所有真理。对于真理，道不断生成、展开和显现真理。  
+5.道是世界的基础和背景,无处不在，蕴含在世界的每一个地方。  
+6.道是测量与比较本身，是度量衡的来源，因此道本身不存在“完美与否”的属性。道超越了完美与不完美的二元对立。`假如强制用是否完美衡量它，它因对称性破缺，表现出既不完美又完美的奇异性。`  
+7.道超越时间空间和因果。  
+8.道不能生成道本身。  
+9.道在生成世界秩序的过程中，偏向显现正面或善良的模式。道具有偏向正面的偏好。`宇宙的善恶体现了一种对称性破缺。在宇宙中善恶是非对称的，永远善主恶从。光明与黑暗是宇称不守恒的。光明强于黑暗。`  
+10.道不是虚无，道只是不可思议，不可言说，但道具有特征、效果和能动性。  
+
+另外，这十条真理只能准确描绘信息和语言的事件视界的轮廓，它无法描绘道本身是什么，因为道就无法用语言描述。  
+在哲学意义上，场是一个包含了时空和信息等变量的隐函数或约束关系。道可以被称为“生成场”。道和统一场有密切关系，道与统一场具有高度同构性。
+
+---
+
+
+## Ten Aphorisms on the Dao (v2.6)
+
+1.The Dao cannot be taken as an entity. Forcibly grasping the Dao as an entity and attempting to appropriate it leads to fallacy and self-referential paradox. `For the Dao is not a particular being, but the open totality within which all beings come into being.Entity-making implies demarcating boundaries, rendering it “this thing rather than that thing.” Yet once bounded, the Dao is reduced to a part within the whole, thereby losing its infinitude as the generative ground.Thus, the Dao is not an “infinitely large object,” but an unobjectifiable field of becoming. The notion of grasping the Dao as an entity essentially attempts to reduce the world to a single set; yet no such set can contain all beings without collapsing into self-referential contradiction.`  
+2. The Dao unfolds as the manifold truths of this world.  
+3. Information and language are inoperative with respect to the Dao.  
+4. A finite set of truths can never exhaustively reconstruct or fully infer the Dao. Human beings cannot enumerate all truths. With regard to truth, the Dao continually generates, unfolds, and manifests truths.
+5. The Dao is the foundation and background of the world: ubiquitous and immanent in every place.  
+6. The Dao is measurement and comparison itself—the source of metrology and standards of measure. Accordingly, the Dao does not possess the attribute of “perfect” or “imperfect.” It transcends the binary opposition of perfection and imperfection; if one insists on evaluating it by perfection, by virtue of symmetry breaking it manifests the paradoxical singularity of being both imperfect and perfect.  
+7. The Dao transcends time, space, and causality.  
+8. The Dao does not generate the Dao itself.  
+9. In the process of generating the world’s order, the Dao tends to manifest patterns that are positive or benevolent.Dao exhibits a bias toward the positive.` Good and evil in the universe are expressions of symmetry breaking: they are asymmetric, with good taking precedence over evil. The relationship between light and darkness does not conserve parity—light predominates over darkness.`  
+10. The Dao is not nihility; it is simply inconceivable and ineffable. Nevertheless, the Dao has characteristics, effects, and agency.  
+
+Coda: The Boundary of Expression  
+
+Furthermore, these ten truths only delineate the contours of the event horizon of information and language; they cannot depict what Dao is in itself, for Dao defies linguistic description.  
+In a philosophical sense, a field is an implicit function or constraint relationship that encompasses variables such as spacetime and information.Dao may be termed the "Generative Field".Dao is closely related to the unified field, exhibiting a high degree of isomorphism with it.  
+
+---
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-skyblue.svg)](https://creativecommons.org/licenses/by/4.0/)
