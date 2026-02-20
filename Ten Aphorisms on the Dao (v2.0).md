@@ -21,7 +21,7 @@
 1.The Dao cannot be taken as an entity. Forcibly grasping the Dao as an entity and attempting to appropriate it leads to fallacy and self-referential paradox. `For the Dao is not a particular being, but the open totality within which all beings come into being.Entity-making implies demarcating boundaries, rendering it “this thing rather than that thing.” Yet once bounded, the Dao is reduced to a part within the whole, thereby losing its infinitude as the generative ground.Thus, the Dao is not an “infinitely large object,” but an unobjectifiable field of becoming. The notion of grasping the Dao as an entity essentially attempts to reduce the world to a single set; yet no such set can contain all beings without collapsing into self-referential contradiction.`  
 2. The Dao unfolds as the manifold truths of this world.  
 3. Information and language are inoperative with respect to the Dao.  
-4. A finite set of truths can never exhaustively reconstruct or fully infer the Dao. Human beings cannot enumerate all truths. With regard to truth, the Dao continually generates, unfolds, and manifests truths.
+4. A finite set of truths can never exhaustively reconstruct or fully infer the Dao. Human beings cannot enumerate all truths. With regard to truth, the Dao continually generates, unfolds, and manifests truths.  
 5. The Dao is the foundation and background of the world: ubiquitous and immanent in every place.  
 6. The Dao is measurement and comparison itself—the source of metrology and standards of measure. Accordingly, the Dao does not possess the attribute of “perfect” or “imperfect.” It transcends the binary opposition of perfection and imperfection; if one insists on evaluating it by perfection, by virtue of symmetry breaking it manifests the paradoxical singularity of being both imperfect and perfect.  
 7. The Dao transcends time, space, and causality.  
@@ -36,3 +36,4 @@ In a philosophical sense, a field is an implicit function or constraint relation
 
 ---
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-skyblue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
