@@ -1,5 +1,3 @@
-> From: https://gemini.google.com/app/696fc9562bd6c77f?hl=zh-cn
-
 # you asked
 
 你看看这个
