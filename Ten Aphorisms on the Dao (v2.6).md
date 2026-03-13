@@ -11,7 +11,7 @@
 10.道不是虚无，道只是不可思议，不可言说，但道具有特征、效果和能动性。  
 
 另外，这十条真理只能准确描绘信息和语言的事件视界的轮廓，它无法描绘道本身是什么，因为道就无法用语言描述。  
-在哲学意义上，场是一个包含了时空和信息等变量的隐函数或约束关系。道可以被称为“生成场”。道和统一场有密切关系，道与统一场具有高度同构性。
+在哲学意义上，场是一个包含了时空、能量和信息等变量的隐函数或约束关系。道可以被称为“生成场”。道和统一场有密切关系，道与统一场具有高度同构性。
 
 ---
 
@@ -32,8 +32,9 @@
 Coda: The Boundary of Expression  
 
 Furthermore, these ten truths only delineate the contours of the event horizon of information and language; they cannot depict what Dao is in itself, for Dao defies linguistic description.  
-In a philosophical sense, a field is an implicit function or constraint relationship that encompasses variables such as spacetime and information.Dao may be termed the "Generative Field".Dao is closely related to the unified field, exhibiting a high degree of isomorphism with it.  
+In a philosophical sense, a field is an implicit function or constraint relationship that encompasses variables such as spacetime,energy and information.Dao may be termed the "Generative Field".Dao is closely related to the unified field, exhibiting a high degree of isomorphism with it.  
 
 ---
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-skyblue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
